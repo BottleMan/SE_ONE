@@ -1,9 +1,9 @@
-SE_ONE
+SRS
 ======
 
-##软件工程实验一##
+##软件工程实验##
 
-本项目属于软件工程实验一
+本项目属于软件工程实验
 
 项目名称：Student Registration System，简称SRS。
 
